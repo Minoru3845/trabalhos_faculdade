@@ -1,2 +1,2 @@
-# trabalhos_faculdade
+# trabalhos_de_faculdade
 Trabalhos facultativos
